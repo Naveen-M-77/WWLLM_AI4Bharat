@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Mitra - AI Farmer Advisory Assistant",
+  "description": "Multilingual Indian-language agricultural advisory assistant powered by BharatGen AgriParam and AI4Bharat IndicTrans2 with RAG document retrieval, voice I/O, pest diagnosis, and comprehensive evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
